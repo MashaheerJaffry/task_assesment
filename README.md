@@ -1,6 +1,4 @@
 # task_assesment
-<<<<<<< HEAD
-
 A new Flutter project.
 
 ## Getting Started
@@ -15,7 +13,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-=======
 Task Assesment is a dummy project just to show my regular work flow.
 ![screenshot](https://github.com/user-attachments/assets/1c47863d-7f48-48b4-9db8-7dc26415baa8)
->>>>>>> 8ce557a8d9010f19b75c62f4e8566a7b3e1a5e3a
